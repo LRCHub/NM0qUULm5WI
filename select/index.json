@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最高サマー!!!",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T13:11:34.503586Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最高サマー!!!",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_最高サマー!!!_Onephony.txt"
+    }
+  ]
+}
